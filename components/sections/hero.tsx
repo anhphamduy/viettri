@@ -23,11 +23,6 @@ export function Hero() {
                 {t('hero.ctaApply')}
               </Button>
             </Link>
-            <Link href="#info-session">
-              <Button size="lg" variant="outline" className="text-base px-8 py-6">
-                {t('hero.ctaInfo')}
-              </Button>
-            </Link>
           </div>
         </div>
       </div>

@@ -8,8 +8,7 @@
   "hero": {
     "title": "Trở thành AI Engineer trong 8 tuần",
     "subtitle": "Khoá thực hành: LLM, RAG, agent, MLOps và dự án thực tế với mentor từ ngành.",
-    "ctaApply": "Đăng ký ngay",
-    "ctaInfo": "Đặt lịch tư vấn"
+    "ctaApply": "Đăng ký ngay"
   },
   "whyChoose": {
     "title": "Tại sao chọn VietTri?",
@@ -121,12 +120,12 @@
     "title": "Hình thức & Lịch học",
     "classes": "2 buổi mỗi tuần",
     "live": "Trực tuyến trực tiếp hoặc tại lớp",
-    "hours": "15 giờ/tuần dung lượng giảng dạy"
+    "hours": "3 đến 4 giờ mỗi tuần"
   },
   "pricing": {
     "title": "Học phí",
-    "tuition": "Học phí: 10.000.000đ mỗi lớp",
-    "earlyBird": "Ưu đãi sớm (-10%) trước [ngày]",
+    "tuition": "Học phí: 10.999.999đ mỗi lớp",
+    "earlyBird": "Ưu đãi sớm (-10%) trước khai giảng 3 tuần",
     "group": "Giảm giá nhóm (-15%) cho nhóm 3+ người"
   },
   "faq": {
@@ -161,7 +160,7 @@
     },
     "q8": {
       "question": "Sĩ số lớp học bao nhiêu?",
-      "answer": "Chúng tôi giữ lớp học nhỏ (15 giờ/tuần dung lượng giảng dạy) để đảm bảo sự quan tâm cá nhân và chất lượng học tập."
+      "answer": "Chúng tôi giữ lớp học nhỏ (3 đến 4 giờ mỗi tuần) để đảm bảo sự quan tâm cá nhân và chất lượng học tập."
     },
     "q9": {
       "question": "Bạn cung cấp hỗ trợ gì sau bootcamp?",

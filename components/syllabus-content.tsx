@@ -39,11 +39,11 @@ export function SyllabusContent() {
                   <div className="flex gap-3">
                     <div className="flex-shrink-0 mt-1">
                       <div className="w-10 h-10 rounded-lg bg-blue-500/10 flex items-center justify-center">
-                        <BookOpen className="h-5 w-5 text-blue-600 dark:text-blue-400" />
+                        <BookOpen className="h-5 w-5 text-blue-600" />
                       </div>
                     </div>
                     <div className="flex-1">
-                      <h3 className="font-semibold text-base text-gray-900 dark:text-gray-100 mb-2">
+                      <h3 className="font-semibold text-base text-gray-900 mb-2">
                         {t('curriculum.studyLabel')}
                       </h3>
                       <p className="text-muted-foreground leading-relaxed">
@@ -56,11 +56,11 @@ export function SyllabusContent() {
                   <div className="flex gap-3">
                     <div className="flex-shrink-0 mt-1">
                       <div className="w-10 h-10 rounded-lg bg-green-500/10 flex items-center justify-center">
-                        <Code2 className="h-5 w-5 text-green-600 dark:text-green-400" />
+                        <Code2 className="h-5 w-5 text-green-600" />
                       </div>
                     </div>
                     <div className="flex-1">
-                      <h3 className="font-semibold text-base text-gray-900 dark:text-gray-100 mb-2">
+                      <h3 className="font-semibold text-base text-gray-900 mb-2">
                         {t('curriculum.projectLabel')}
                       </h3>
                       <p className="text-muted-foreground leading-relaxed">

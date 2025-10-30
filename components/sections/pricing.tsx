@@ -21,7 +21,7 @@ export function Pricing() {
           <Card className="p-8 lg:p-12">
             <div className="text-center">
               <div className="text-4xl font-bold mb-2">
-                10,000,000 <span className="text-lg font-normal">VND</span>
+                10,999,999 <span className="text-lg font-normal">VND</span>
               </div>
               <p className="text-muted-foreground mb-8">{t('pricing.tuition')}</p>
               

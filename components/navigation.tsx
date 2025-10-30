@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { useLanguage } from './language-provider';
 import { Button } from './ui/button';
-import { ThemeSwitcher } from './theme-switcher';
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
@@ -62,8 +61,6 @@ export function Navigation() {
                 VI
               </button>
             </div>
-            
-            <ThemeSwitcher />
           </div>
 
           {/* Mobile Menu Button */}
@@ -90,7 +87,6 @@ export function Navigation() {
                 VI
               </button>
             </div>
-            <ThemeSwitcher />
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2"

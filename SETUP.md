@@ -4,7 +4,6 @@
 
 - ✅ Bilingual website (English/Vietnamese) with language toggle
 - ✅ Modern, clean design with brand colors and Inter/Sora fonts
-- ✅ Dark mode support
 - ✅ All pages: Home, Instructors, Apply, Syllabus, Thank You
 - ✅ SEO metadata, OpenGraph tags, and Course schema
 - ✅ Responsive design with mobile support
