@@ -10,7 +10,6 @@ export function StructuredData() {
       "sameAs": []
     },
     "courseCode": "VIETTRI-AI-001",
-    "educationalCredentialAwarded": "Certificate of Completion",
     "timeRequired": "P8W",
     "coursePrerequisites": "Basic programming knowledge recommended but not required",
     "teaches": [
@@ -24,7 +23,7 @@ export function StructuredData() {
     "inLanguage": ["en", "vi"],
     "offers": {
       "@type": "Offer",
-      "price": "10000000",
+      "price": "10999999",
       "priceCurrency": "VND",
       "availability": "https://schema.org/InStock"
     }

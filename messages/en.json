@@ -66,37 +66,47 @@
   },
   "curriculum": {
     "title": "Curriculum (8 Weeks)",
+    "studyLabel": "What you will learn",
+    "projectLabel": "Project",
     "week1": {
       "title": "Week 1 – Foundations & Python for AI",
-      "content": "Python for ML/AI, vector math, Git, virtual env, notebooks. Project: mini data pipeline."
+      "study": "Python for ML/AI, vector math, Git, virtual env, notebooks",
+      "project": "Mini data pipeline"
     },
     "week2": {
       "title": "Week 2 – Modern ML & Embeddings",
-      "content": "Embeddings, vector DB (FAISS/Chroma), data cleaning. Project: semantic search app."
+      "study": "Embeddings, vector DB (FAISS/Chroma), data cleaning",
+      "project": "Semantic search app"
     },
     "week3": {
       "title": "Week 3 – LLM Basics & Prompting",
-      "content": "Tokenization, prompt patterns, evaluation. Project: prompt chaining."
+      "study": "Tokenization, prompt patterns, evaluation",
+      "project": "Prompt chaining"
     },
     "week4": {
       "title": "Week 4 – Retrieval-Augmented Generation (RAG)",
-      "content": "Indexing, chunking, hybrid search, reranking. Project: RAG chatbot."
+      "study": "Indexing, chunking, hybrid search, reranking",
+      "project": "RAG chatbot"
     },
     "week5": {
       "title": "Week 5 – Agents & Tools",
-      "content": "Function calling, tool use, planning, memory, safety. Project: multi-tool workflow agent."
+      "study": "Function calling, tool use, planning, memory, safety",
+      "project": "Multi-tool workflow agent"
     },
     "week6": {
       "title": "Week 6 – Fine-Tuning & Adapters",
-      "content": "LoRA/QLoRA, dataset prep, SFT vs RFT. Project: fine-tune a small open LLM."
+      "study": "LoRA/QLoRA, dataset prep, SFT vs RFT",
+      "project": "Fine-tune a small open LLM"
     },
     "week7": {
       "title": "Week 7 – MLOps for LLM Apps",
-      "content": "Evaluation, monitoring, A/B testing, cost tracking. Project: add eval & logging to your app."
+      "study": "Evaluation, monitoring, A/B testing, cost tracking",
+      "project": "Add eval & logging to your app"
     },
     "week8": {
       "title": "Week 8 – Deployment & Capstone",
-      "content": "Docker, CI/CD, GPU/CPU setup, serverless, caching. Capstone: ship production-level AI app + live demo."
+      "study": "Docker, CI/CD, GPU/CPU setup, serverless, caching",
+      "project": "Capstone: Deploy production-level AI app + live demo"
     }
   },
   "whoFor": {
@@ -133,10 +143,6 @@
       "answer": "Both! You can attend live online or in-person, whichever works better for you."
     },
     "q4": {
-      "question": "Will I get a certificate?",
-      "answer": "Yes, upon successful completion of the bootcamp and capstone project."
-    },
-    "q5": {
       "question": "What happens after I apply?",
       "answer": "We'll review your application and reach out within 1-2 business days to discuss next steps."
     },

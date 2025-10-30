@@ -11,7 +11,7 @@ import {
 export function FAQ() {
   const { t } = useLanguage();
 
-  const questions = Array.from({ length: 9 }, (_, i) => i + 1);
+  const questions = [1, 2, 3, 4, 6, 7, 8, 9, 10];
 
   return (
     <section id="faq" className="py-20 sm:py-24">

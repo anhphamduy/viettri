@@ -17,8 +17,8 @@ export const metadata: Metadata = {
     title: "VietTri — AI Engineer Bootcamp",
     description: "Become an AI Engineer in 8 Weeks. Hands-on course: LLMs, RAG, agents, MLOps, and real projects.",
     type: "website",
-    locale: "en_US",
-    alternateLocale: "vi_VN",
+    locale: "vi_VN",
+    alternateLocale: "en_US",
   },
 };
 
@@ -42,7 +42,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="vi">
       <body className={`${inter.variable} ${sora.variable} font-sans antialiased`}>
         <StructuredData />
         <LanguageProvider>

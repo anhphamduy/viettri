@@ -14,7 +14,7 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [locale, setLocaleState] = useState<Locale>('en');
+  const [locale, setLocaleState] = useState<Locale>('vi');
   const [translations, setTranslations] = useState<Translations>({});
 
   useEffect(() => {
@@ -22,8 +22,8 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
     import(`@/messages/${locale}.json`)
       .then((mod) => setTranslations(mod.default))
       .catch(() => {
-        // Fallback to English
-        import('@/messages/en.json').then((mod) => setTranslations(mod.default));
+        // Fallback to Vietnamese
+        import('@/messages/vi.json').then((mod) => setTranslations(mod.default));
       });
   }, [locale]);
 

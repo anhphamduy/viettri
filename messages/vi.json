@@ -143,10 +143,6 @@
       "answer": "Cả hai! Bạn có thể tham dự trực tuyến trực tiếp hoặc tại lớp, tùy thuộc vào điều gì phù hợp với bạn."
     },
     "q4": {
-      "question": "Tôi có nhận được chứng chỉ không?",
-      "answer": "Có, sau khi hoàn thành thành công bootcamp và dự án capstone."
-    },
-    "q5": {
       "question": "Điều gì xảy ra sau khi tôi đăng ký?",
       "answer": "Chúng tôi sẽ xem xét đơn đăng ký của bạn và liên hệ trong vòng 1-2 ngày làm việc để thảo luận các bước tiếp theo."
     },
@@ -163,6 +159,10 @@
       "answer": "Chúng tôi giữ lớp học nhỏ (3 đến 4 giờ mỗi tuần) để đảm bảo sự quan tâm cá nhân và chất lượng học tập."
     },
     "q9": {
+      "question": "Bạn cung cấp hỗ trợ gì sau bootcamp?",
+      "answer": "Hỗ trợ nghề nghiệp bao gồm đánh giá portfolio, hướng dẫn CV, chuẩn bị phỏng vấn và hỗ trợ tìm việc."
+    },
+    "q10": {
       "question": "Bạn cung cấp hỗ trợ gì sau bootcamp?",
       "answer": "Hỗ trợ nghề nghiệp bao gồm đánh giá portfolio, hướng dẫn CV, chuẩn bị phỏng vấn và hỗ trợ tìm việc."
     }
