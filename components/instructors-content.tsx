@@ -29,9 +29,20 @@ export function InstructorsContent() {
               <h2 className="text-2xl font-bold">{t('instructors.anh.name')}</h2>
               <p className="text-muted-foreground">{t('instructors.anh.title')}</p>
             </div>
-            <p className="text-muted-foreground text-center">
-              {t('instructors.anh.bio')}
-            </p>
+            <div className="space-y-4 text-center">
+              <div>
+                <h3 className="font-semibold mb-2">{t('instructors.education')}</h3>
+                <p className="text-muted-foreground text-sm">
+                  {t('instructors.anh.education')}
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold mb-2">{t('instructors.experience')}</h3>
+                <p className="text-muted-foreground text-sm">
+                  {t('instructors.anh.experience')}
+                </p>
+              </div>
+            </div>
           </Card>
 
           {/* Khang Cu */}
@@ -46,9 +57,20 @@ export function InstructorsContent() {
               <h2 className="text-2xl font-bold">{t('instructors.khang.name')}</h2>
               <p className="text-muted-foreground">{t('instructors.khang.title')}</p>
             </div>
-            <p className="text-muted-foreground text-center">
-              {t('instructors.khang.bio')}
-            </p>
+            <div className="space-y-4 text-center">
+              <div>
+                <h3 className="font-semibold mb-2">{t('instructors.education')}</h3>
+                <p className="text-muted-foreground text-sm">
+                  {t('instructors.khang.education')}
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold mb-2">{t('instructors.experience')}</h3>
+                <p className="text-muted-foreground text-sm">
+                  {t('instructors.khang.experience')}
+                </p>
+              </div>
+            </div>
           </Card>
         </div>
       </div>

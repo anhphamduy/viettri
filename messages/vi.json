@@ -169,15 +169,19 @@
   },
   "instructors": {
     "title": "Gặp gỡ Giảng viên",
+    "education": "Học vấn",
+    "experience": "Kinh nghiệm",
     "anh": {
       "name": "Anh Pham",
       "title": "Kỹ sư AI | Giảng viên",
-      "bio": "Thạc sĩ An ninh Mạng (King's College London); Cử nhân (Đại học Melbourne); Cựu Trợ giảng tại Đại học Melbourne; hiện là Kỹ sư AI tại FPT Software. Chuyên môn: ứng dụng LLM, RAG, và bảo mật."
+      "education": "Thạc sĩ An ninh Mạng (King's College London); Cử nhân (Đại học Melbourne)",
+      "experience": "Cựu Trợ giảng tại Đại học Melbourne; hiện là Kỹ sư AI tại FPT Software"
     },
     "khang": {
       "name": "Khang Cu",
       "title": "Kỹ sư AI | Giảng viên",
-      "bio": "Cử nhân Danh dự (Đại học Sydney); Kỹ sư AI tại FPT Software. Chuyên môn: agents, MLOps, và triển khai."
+      "education": "Cử nhân Danh dự (Đại học Sydney)",
+      "experience": "Kỹ sư AI tại FPT Software"
     }
   },
   "apply": {

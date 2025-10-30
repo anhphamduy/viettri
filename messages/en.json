@@ -169,15 +169,19 @@
   },
   "instructors": {
     "title": "Meet Your Instructors",
+    "education": "Education",
+    "experience": "Experience",
     "anh": {
       "name": "Anh Pham",
       "title": "AI Engineer | Instructor",
-      "bio": "Master in Cyber Security (King's College London); Bachelor (University of Melbourne); Former Teaching Assistant at the University of Melbourne; currently an AI Engineer at FPT Software. Focus: LLM apps, RAG, and security."
+      "education": "Master in Cyber Security (King's College London); Bachelor (University of Melbourne)",
+      "experience": "Former Teaching Assistant at the University of Melbourne; currently an AI Engineer at FPT Software"
     },
     "khang": {
       "name": "Khang Cu",
       "title": "AI Engineer | Instructor",
-      "bio": "Honours (University of Sydney); AI Engineer at FPT Software. Focus: agents, MLOps, and deployment."
+      "education": "Honours (University of Sydney)",
+      "experience": "AI Engineer at FPT Software"
     }
   },
   "apply": {
