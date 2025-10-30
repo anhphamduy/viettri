@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Inter, Sora } from "next/font/google";
 import { ThemeProvider } from "next-themes";
+import { LanguageProvider } from "@/components/language-provider";
+import { StructuredData } from "@/components/structured-data";
 import "./globals.css";
 
 const defaultUrl = process.env.VERCEL_URL
@@ -9,14 +11,30 @@ const defaultUrl = process.env.VERCEL_URL
 
 export const metadata: Metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "Next.js and Supabase Starter Kit",
-  description: "The fastest way to build apps with Next.js and Supabase",
+  title: "VietTri — AI Engineer Bootcamp | Become an AI Engineer in 8 Weeks",
+  description: "Hands-on course: LLMs, RAG, agents, MLOps, and real projects guided by industry engineers. Learn in English or Vietnamese.",
+  keywords: ["AI Engineer", "Bootcamp", "Machine Learning", "LLM", "RAG", "MLOps", "Vietnam", "VietTri"],
+  openGraph: {
+    title: "VietTri — AI Engineer Bootcamp",
+    description: "Become an AI Engineer in 8 Weeks. Hands-on course: LLMs, RAG, agents, MLOps, and real projects.",
+    type: "website",
+    locale: "en_US",
+    alternateLocale: "vi_VN",
+  },
 };
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const inter = Inter({
+  variable: "--font-inter",
   display: "swap",
   subsets: ["latin"],
+  weight: ["400", "500", "700"],
+});
+
+const sora = Sora({
+  variable: "--font-sora",
+  display: "swap",
+  subsets: ["latin"],
+  weight: ["400", "500", "700"],
 });
 
 export default function RootLayout({
@@ -26,14 +44,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${geistSans.className} antialiased`}>
+      <body className={`${inter.variable} ${sora.variable} font-sans antialiased`}>
+        <StructuredData />
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange
         >
-          {children}
+          <LanguageProvider>
+            {children}
+          </LanguageProvider>
         </ThemeProvider>
       </body>
     </html>

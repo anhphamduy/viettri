@@ -1,0 +1,206 @@
+{
+  "nav": {
+    "home": "Home",
+    "instructors": "Instructors",
+    "syllabus": "Syllabus",
+    "apply": "Apply Now"
+  },
+  "hero": {
+    "title": "Become an AI Engineer in 8 Weeks",
+    "subtitle": "Hands-on course: LLMs, RAG, agents, MLOps, and real projects guided by industry engineers.",
+    "ctaApply": "Apply Now",
+    "ctaInfo": "Book Info Session"
+  },
+  "whyChoose": {
+    "title": "Why choose VietTri?",
+    "benefit1": {
+      "title": "Industry Mentors",
+      "description": "Learn from experienced AI engineers working at top tech companies."
+    },
+    "benefit2": {
+      "title": "Hands-on Projects",
+      "description": "Build real-world AI applications from day one, not just theory."
+    },
+    "benefit3": {
+      "title": "Modern Stack",
+      "description": "Master the latest tools: LangChain, OpenAI, vector DBs, and MLOps."
+    },
+    "benefit4": {
+      "title": "Small Class Size",
+      "description": "Get personalized attention with focused, interactive learning."
+    },
+    "benefit5": {
+      "title": "Career Support",
+      "description": "Portfolio reviews, resume guidance, and job placement assistance."
+    },
+    "benefit6": {
+      "title": "Bilingual Instruction",
+      "description": "Learn in English or Vietnamese—whatever you're comfortable with."
+    }
+  },
+  "projects": {
+    "title": "What you will build",
+    "project1": {
+      "title": "Semantic Search App",
+      "description": "Build a search engine that understands meaning, not just keywords."
+    },
+    "project2": {
+      "title": "RAG Chatbot",
+      "description": "Create an intelligent chatbot with knowledge retrieval."
+    },
+    "project3": {
+      "title": "Multi-Tool Agent",
+      "description": "Build autonomous agents that use tools and plan actions."
+    },
+    "project4": {
+      "title": "Fine-Tuned LLM",
+      "description": "Customize language models for specific tasks and domains."
+    },
+    "project5": {
+      "title": "Production AI App",
+      "description": "Deploy a complete AI application with monitoring and CI/CD."
+    },
+    "project6": {
+      "title": "Document AI System",
+      "description": "Build intelligent document processing with extraction, analysis, and summarization."
+    }
+  },
+  "curriculum": {
+    "title": "Curriculum (8 Weeks)",
+    "week1": {
+      "title": "Week 1 – Foundations & Python for AI",
+      "content": "Python for ML/AI, vector math, Git, virtual env, notebooks. Project: mini data pipeline."
+    },
+    "week2": {
+      "title": "Week 2 – Modern ML & Embeddings",
+      "content": "Embeddings, vector DB (FAISS/Chroma), data cleaning. Project: semantic search app."
+    },
+    "week3": {
+      "title": "Week 3 – LLM Basics & Prompting",
+      "content": "Tokenization, prompt patterns, evaluation. Project: prompt chaining."
+    },
+    "week4": {
+      "title": "Week 4 – Retrieval-Augmented Generation (RAG)",
+      "content": "Indexing, chunking, hybrid search, reranking. Project: RAG chatbot."
+    },
+    "week5": {
+      "title": "Week 5 – Agents & Tools",
+      "content": "Function calling, tool use, planning, memory, safety. Project: multi-tool workflow agent."
+    },
+    "week6": {
+      "title": "Week 6 – Fine-Tuning & Adapters",
+      "content": "LoRA/QLoRA, dataset prep, SFT vs RFT. Project: fine-tune a small open LLM."
+    },
+    "week7": {
+      "title": "Week 7 – MLOps for LLM Apps",
+      "content": "Evaluation, monitoring, A/B testing, cost tracking. Project: add eval & logging to your app."
+    },
+    "week8": {
+      "title": "Week 8 – Deployment & Capstone",
+      "content": "Docker, CI/CD, GPU/CPU setup, serverless, caching. Capstone: ship production-level AI app + live demo."
+    }
+  },
+  "whoFor": {
+    "title": "Who it's for",
+    "devs": "Software developers looking to specialize in AI",
+    "data": "Data scientists/analysts transitioning to AI engineering",
+    "students": "Students and recent graduates ready for practical training",
+    "switchers": "Career switchers entering the AI field"
+  },
+  "format": {
+    "title": "Format & Schedule",
+    "classes": "2 classes per week",
+    "live": "Live online or in-person",
+    "hours": "15 hours/week teaching capacity"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "tuition": "Tuition: 10,000,000 VND per class",
+    "earlyBird": "Early-bird discount (-10%) before [date]",
+    "group": "Group discount (-15%) for groups of 3+"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": {
+      "question": "Do I need prior AI/ML experience?",
+      "answer": "No! We start from Python foundations. Basic programming knowledge helps, but we'll cover everything you need."
+    },
+    "q2": {
+      "question": "What's the class schedule?",
+      "answer": "2 classes per week, live sessions. We'll work with students to find the best times that work for everyone."
+    },
+    "q3": {
+      "question": "Is this online or in-person?",
+      "answer": "Both! You can attend live online or in-person, whichever works better for you."
+    },
+    "q4": {
+      "question": "Will I get a certificate?",
+      "answer": "Yes, upon successful completion of the bootcamp and capstone project."
+    },
+    "q5": {
+      "question": "What happens after I apply?",
+      "answer": "We'll review your application and reach out within 1-2 business days to discuss next steps."
+    },
+    "q6": {
+      "question": "Can I pay in installments?",
+      "answer": "Yes, we offer flexible payment plans. Let us know your preference when you apply."
+    },
+    "q7": {
+      "question": "What tools will I need?",
+      "answer": "A laptop (Mac, Windows, or Linux), stable internet, and enthusiasm to learn! We'll help set up the development environment."
+    },
+    "q8": {
+      "question": "Is the curriculum in English or Vietnamese?",
+      "answer": "Both! All materials and instruction are available in English and Vietnamese. You can switch anytime."
+    },
+    "q9": {
+      "question": "What's the class size?",
+      "answer": "We keep classes small (15 hours/week teaching capacity) to ensure personalized attention and quality learning."
+    },
+    "q10": {
+      "question": "What support do you provide after the bootcamp?",
+      "answer": "Career support includes portfolio reviews, resume guidance, interview prep, and job placement assistance."
+    }
+  },
+  "instructors": {
+    "title": "Meet Your Instructors",
+    "anh": {
+      "name": "Anh Pham",
+      "title": "AI Engineer | Instructor",
+      "bio": "Master in Cyber Security (King's College London); Bachelor (University of Melbourne); Former Teaching Assistant at the University of Melbourne; currently an AI Engineer at FPT Software. Focus: LLM apps, RAG, and security."
+    },
+    "khang": {
+      "name": "Khang Cu",
+      "title": "AI Engineer | Instructor",
+      "bio": "Honours (University of Sydney); AI Engineer at FPT Software. Focus: agents, MLOps, and deployment."
+    }
+  },
+  "apply": {
+    "title": "Apply to VietTri Bootcamp",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "background": "Background",
+      "goals": "Goals",
+      "cohortDate": "Preferred Cohort Date",
+      "paymentPlan": "Payment Plan",
+      "full": "Full Payment",
+      "installments": "Installments",
+      "submit": "Submit Application"
+    }
+  },
+  "thankYou": {
+    "title": "Thank You!",
+    "message": "We've received your application and will review it within 1-2 business days.",
+    "nextSteps": "Next Steps",
+    "step1": "Check your email for confirmation",
+    "step2": "Our team will reach out to schedule an interview",
+    "step3": "Book an info session to learn more"
+  },
+  "footer": {
+    "cta": "Ready to start your AI journey?",
+    "apply": "Apply Now"
+  }
+}
+

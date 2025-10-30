@@ -1,0 +1,209 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "instructors": "Giảng viên",
+    "syllabus": "Chương trình",
+    "apply": "Đăng ký ngay"
+  },
+  "hero": {
+    "title": "Trở thành AI Engineer trong 8 tuần",
+    "subtitle": "Khoá thực hành: LLM, RAG, agent, MLOps và dự án thực tế với mentor từ ngành.",
+    "ctaApply": "Đăng ký ngay",
+    "ctaInfo": "Đặt lịch tư vấn"
+  },
+  "whyChoose": {
+    "title": "Tại sao chọn VietTri?",
+    "benefit1": {
+      "title": "Mentor từ ngành",
+      "description": "Học từ các kỹ sư AI giàu kinh nghiệm tại các công ty công nghệ hàng đầu."
+    },
+    "benefit2": {
+      "title": "Dự án thực tế",
+      "description": "Xây dựng ứng dụng AI thực tế ngay từ ngày đầu, không chỉ lý thuyết."
+    },
+    "benefit3": {
+      "title": "Công nghệ hiện đại",
+      "description": "Thành thạo các công cụ mới nhất: LangChain, OpenAI, vector DB, và MLOps."
+    },
+    "benefit4": {
+      "title": "Lớp học nhỏ",
+      "description": "Nhận được sự quan tâm cá nhân với môi trường học tập tập trung và tương tác."
+    },
+    "benefit5": {
+      "title": "Hỗ trợ nghề nghiệp",
+      "description": "Đánh giá portfolio, hướng dẫn CV, và hỗ trợ tìm việc."
+    },
+    "benefit6": {
+      "title": "Song ngữ",
+      "description": "Học bằng tiếng Anh hoặc tiếng Việt—tùy bạn cảm thấy thoải mái."
+    }
+  },
+  "projects": {
+    "title": "Bạn sẽ xây dựng gì",
+    "project1": {
+      "title": "Ứng dụng Tìm kiếm Ngữ nghĩa",
+      "description": "Xây dựng công cụ tìm kiếm hiểu được ý nghĩa, không chỉ từ khóa."
+    },
+    "project2": {
+      "title": "Chatbot RAG",
+      "description": "Tạo chatbot thông minh với khả năng truy xuất kiến thức."
+    },
+    "project3": {
+      "title": "Agent Đa Công cụ",
+      "description": "Xây dựng agent tự động sử dụng công cụ và lập kế hoạch hành động."
+    },
+    "project4": {
+      "title": "LLM Đã Fine-tune",
+      "description": "Tùy chỉnh mô hình ngôn ngữ cho các nhiệm vụ và lĩnh vực cụ thể."
+    },
+    "project5": {
+      "title": "Ứng dụng AI Sản xuất",
+      "description": "Triển khai ứng dụng AI hoàn chỉnh với giám sát và CI/CD."
+    },
+    "project6": {
+      "title": "Hệ thống AI Xử lý Tài liệu",
+      "description": "Xây dựng hệ thống xử lý tài liệu thông minh với trích xuất, phân tích và tóm tắt."
+    }
+  },
+  "curriculum": {
+    "title": "Chương trình (8 Tuần)",
+    "studyLabel": "Bạn sẽ học gì",
+    "projectLabel": "Dự án",
+    "week1": {
+      "title": "Tuần 1 – Nền tảng & Python cho AI",
+      "study": "Python cho ML/AI, toán vector, Git, môi trường ảo, notebooks",
+      "project": "Pipeline dữ liệu mini"
+    },
+    "week2": {
+      "title": "Tuần 2 – ML Hiện đại & Embeddings",
+      "study": "Embeddings, vector DB (FAISS/Chroma), làm sạch dữ liệu",
+      "project": "Ứng dụng tìm kiếm ngữ nghĩa"
+    },
+    "week3": {
+      "title": "Tuần 3 – Cơ bản LLM & Prompting",
+      "study": "Tokenization, mẫu prompt, đánh giá",
+      "project": "Chuỗi prompt"
+    },
+    "week4": {
+      "title": "Tuần 4 – RAG (Retrieval-Augmented Generation)",
+      "study": "Indexing, chunking, tìm kiếm lai, reranking",
+      "project": "Chatbot RAG"
+    },
+    "week5": {
+      "title": "Tuần 5 – Agents & Tools",
+      "study": "Function calling, sử dụng công cụ, lập kế hoạch, bộ nhớ, an toàn",
+      "project": "Agent workflow đa công cụ"
+    },
+    "week6": {
+      "title": "Tuần 6 – Fine-Tuning & Adapters",
+      "study": "LoRA/QLoRA, chuẩn bị dataset, SFT vs RFT",
+      "project": "Fine-tune một LLM mã nguồn mở nhỏ"
+    },
+    "week7": {
+      "title": "Tuần 7 – MLOps cho Ứng dụng LLM",
+      "study": "Đánh giá, giám sát, A/B testing, theo dõi chi phí",
+      "project": "Thêm đánh giá & logging vào ứng dụng"
+    },
+    "week8": {
+      "title": "Tuần 8 – Triển khai & Capstone",
+      "study": "Docker, CI/CD, thiết lập GPU/CPU, serverless, caching",
+      "project": "Capstone: Triển khai ứng dụng AI cấp sản xuất + demo trực tiếp"
+    }
+  },
+  "whoFor": {
+    "title": "Dành cho ai",
+    "devs": "Lập trình viên muốn chuyên sâu về AI",
+    "data": "Nhà khoa học/phân tích dữ liệu chuyển sang kỹ sư AI",
+    "students": "Sinh viên và cử nhân mới tốt nghiệp sẵn sàng đào tạo thực hành",
+    "switchers": "Người chuyển đổi nghề nghiệp vào lĩnh vực AI"
+  },
+  "format": {
+    "title": "Hình thức & Lịch học",
+    "classes": "2 buổi mỗi tuần",
+    "live": "Trực tuyến trực tiếp hoặc tại lớp",
+    "hours": "15 giờ/tuần dung lượng giảng dạy"
+  },
+  "pricing": {
+    "title": "Học phí",
+    "tuition": "Học phí: 10.000.000đ mỗi lớp",
+    "earlyBird": "Ưu đãi sớm (-10%) trước [ngày]",
+    "group": "Giảm giá nhóm (-15%) cho nhóm 3+ người"
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "q1": {
+      "question": "Tôi có cần kinh nghiệm AI/ML trước đó không?",
+      "answer": "Không! Chúng tôi bắt đầu từ nền tảng Python. Kiến thức lập trình cơ bản giúp ích, nhưng chúng tôi sẽ bao gồm mọi thứ bạn cần."
+    },
+    "q2": {
+      "question": "Lịch học như thế nào?",
+      "answer": "2 buổi mỗi tuần, các buổi học trực tiếp. Chúng tôi sẽ làm việc với học viên để tìm thời gian phù hợp nhất cho mọi người."
+    },
+    "q3": {
+      "question": "Đây là khóa học trực tuyến hay tại lớp?",
+      "answer": "Cả hai! Bạn có thể tham dự trực tuyến trực tiếp hoặc tại lớp, tùy thuộc vào điều gì phù hợp với bạn."
+    },
+    "q4": {
+      "question": "Tôi có nhận được chứng chỉ không?",
+      "answer": "Có, sau khi hoàn thành thành công bootcamp và dự án capstone."
+    },
+    "q5": {
+      "question": "Điều gì xảy ra sau khi tôi đăng ký?",
+      "answer": "Chúng tôi sẽ xem xét đơn đăng ký của bạn và liên hệ trong vòng 1-2 ngày làm việc để thảo luận các bước tiếp theo."
+    },
+    "q6": {
+      "question": "Tôi cần những công cụ gì?",
+      "answer": "Một máy tính xách tay (Mac, Windows hoặc Linux), internet ổn định, và sự nhiệt tình để học! Chúng tôi sẽ giúp thiết lập môi trường phát triển."
+    },
+    "q7": {
+      "question": "Chương trình học bằng tiếng Anh hay tiếng Việt?",
+      "answer": "Cả hai! Tất cả tài liệu và hướng dẫn có sẵn bằng tiếng Anh và tiếng Việt. Bạn có thể chuyển đổi bất cứ lúc nào."
+    },
+    "q8": {
+      "question": "Sĩ số lớp học bao nhiêu?",
+      "answer": "Chúng tôi giữ lớp học nhỏ (15 giờ/tuần dung lượng giảng dạy) để đảm bảo sự quan tâm cá nhân và chất lượng học tập."
+    },
+    "q9": {
+      "question": "Bạn cung cấp hỗ trợ gì sau bootcamp?",
+      "answer": "Hỗ trợ nghề nghiệp bao gồm đánh giá portfolio, hướng dẫn CV, chuẩn bị phỏng vấn và hỗ trợ tìm việc."
+    }
+  },
+  "instructors": {
+    "title": "Gặp gỡ Giảng viên",
+    "anh": {
+      "name": "Anh Pham",
+      "title": "Kỹ sư AI | Giảng viên",
+      "bio": "Thạc sĩ An ninh Mạng (King's College London); Cử nhân (Đại học Melbourne); Cựu Trợ giảng tại Đại học Melbourne; hiện là Kỹ sư AI tại FPT Software. Chuyên môn: ứng dụng LLM, RAG, và bảo mật."
+    },
+    "khang": {
+      "name": "Khang Cu",
+      "title": "Kỹ sư AI | Giảng viên",
+      "bio": "Cử nhân Danh dự (Đại học Sydney); Kỹ sư AI tại FPT Software. Chuyên môn: agents, MLOps, và triển khai."
+    }
+  },
+  "apply": {
+    "title": "Đăng ký Bootcamp VietTri",
+    "form": {
+      "name": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "background": "Nền tảng",
+      "goals": "Mục tiêu",
+      "cohortDate": "Ngày khóa học mong muốn",
+      "submit": "Gửi đơn đăng ký"
+    }
+  },
+  "thankYou": {
+    "title": "Cảm ơn bạn!",
+    "message": "Chúng tôi đã nhận được đơn đăng ký của bạn và sẽ xem xét trong vòng 1-2 ngày làm việc.",
+    "nextSteps": "Các bước tiếp theo",
+    "step1": "Kiểm tra email để xác nhận",
+    "step2": "Đội ngũ của chúng tôi sẽ liên hệ để lên lịch phỏng vấn",
+    "step3": "Đặt lịch tư vấn để tìm hiểu thêm"
+  },
+  "footer": {
+    "cta": "Sẵn sàng bắt đầu hành trình AI của bạn?",
+    "apply": "Đăng ký ngay"
+  }
+}
+

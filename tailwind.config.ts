@@ -11,6 +11,12 @@ export default {
   theme: {
     extend: {
       colors: {
+        // Brand colors
+        "deep-blue": "#0B3C5D",
+        "electric-blue": "#2E8BFE",
+        "emerald": "#11A97D",
+        "off-white": "#F7F9FC",
+        "dark-text": "#0F172A",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
